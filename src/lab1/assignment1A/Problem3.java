@@ -1,4 +1,5 @@
-package assignment1A;
+package lab1.assignment1A;
+
 
 import lab1.powerset.PowerSet;
 

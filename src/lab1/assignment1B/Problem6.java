@@ -1,4 +1,4 @@
-package assignment1B;
+package lab1.assignment1B;
 
 import java.util.ArrayList;
 import java.util.HashSet;
